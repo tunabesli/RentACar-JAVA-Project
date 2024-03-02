@@ -1,0 +1,4 @@
+1000 Sport 80 2001 BMW M5 550 yes
+1001 Sedan 30 2015 Mercedes C180 5 yes
+1002 SUV 100 2019 Mercedes G 4x4 200
+1003 Sedan 10 2002 Opel Corsa 4 no
