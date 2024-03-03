@@ -21,3 +21,4 @@ Rent-A-Car is a user-friendly application designed to facilitate the process of 
 
 ![C7A99A7A-8C31-47E9-944E-8B5C3F9E95D7](https://github.com/ahmeterenA/Rent-A-Car-Project/assets/127527448/fe9b848b-65d6-45cb-afd4-19e12480d35c)
 
+![team8-umldiagram_1](https://github.com/tunabesli/RentACar-JAVA-Project/assets/100220554/e8dbda95-af80-4637-930b-0ce1043958c5)
